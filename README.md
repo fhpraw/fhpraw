@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Fajar Hari Prabowo
-- 🌱 I’m currently learning web
+- 🌱 I’m currently learning
