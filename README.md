@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Fajar Hari Prabowo
 - 🌱 I’m currently growing
+- 🔧 grep,sed,awk,bash,python,javascript
